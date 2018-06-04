@@ -1,0 +1,4 @@
+# Python program to reverse a word after accepting the input from the user.
+word = input("Please enter a word :")
+revword = word[::-1]
+print("Reversed word :",revword)
